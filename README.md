@@ -7,6 +7,7 @@
 
 ![Follows](https://img.shields.io/github/followers/AntsoTech.svg?style=social&label=Follow&maxAge=2592000)
 ![GitHub stars](https://img.shields.io/github/stars/AntsoTech?style=social)
+[![Profile badge](https://www.codewars.com/users/hugmanrique/badges/large)](https://www.codewars.com/users/hugmanrique)
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AntsoTech" alt="antsotech" /></a></p>
