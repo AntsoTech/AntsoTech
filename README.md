@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi, 👋 I'm Antso Rakotoson !</h1>
-<h3 align="center">A passionate web developer student from France</h3>
+<h3 align="center">A passionate web developer from France willing to collaborate to people to impact the world </h3>
 <br>
 
 ![Profile views](https://gpvc.arturio.dev/AntsoTech)
