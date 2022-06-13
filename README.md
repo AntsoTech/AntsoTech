@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi, 👋 I'm Antso Rakotoson !</h1>
-<h3 align="center">A passionate web developer from France willing to collaborate to people to impact the world </h3>
+<h3 align="center">A passionate softawre developer/engineer from France willing to collaborate to people to impact the world </h3>
 <br>
 
 ![Profile views](https://gpvc.arturio.dev/AntsoTech)
@@ -11,7 +11,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AntsoTech" alt="antsotech" /></a></p>
 <br>
 
-- 🔭 I’m currently studyinging **Web developpment at the <a href="https://www.wildcodeschool.com/en-GB" target="blank">" Wild Code School "</a>**
+- 🔭 I’m currently studyinging **Software and web/mobile programming at the <a href="https://www.wildcodeschool.com/en-GB" target="blank">" Wild Code School "</a>**
 
 - 🌱 I’m **a collaborative and curious person with a thirst for learning**
 
