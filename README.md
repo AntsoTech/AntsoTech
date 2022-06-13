@@ -1,15 +1,15 @@
 
-<h1 align="center">Hi, 👋 I'm Jacques Poulin !</h1>
+<h1 align="center">Hi, 👋 I'm Antso Rakotoson !</h1>
 <h3 align="center">A passionate web developer student from France</h3>
 <br>
 
 ![Profile views](https://gpvc.arturio.dev/AntsoTech)
 
-![Follows](https://img.shields.io/github/followers/JacquesPoulin.svg?style=social&label=Follow&maxAge=2592000)
-![GitHub stars](https://img.shields.io/github/stars/JacquesPoulin?style=social)
+![Follows](https://img.shields.io/github/followers/AntsoTech.svg?style=social&label=Follow&maxAge=2592000)
+![GitHub stars](https://img.shields.io/github/stars/AntsoTech?style=social)
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=antsotech" alt="antsotech" /></a></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AntsoTech" alt="antsotech" /></a></p>
 <br>
 
 - 🔭 I’m currently studyinging **Web developpment at the <a href="https://www.wildcodeschool.com/en-GB" target="blank">" Wild Code School "</a>**
@@ -26,11 +26,11 @@
 
 <br>
 
-![Jacques's github stats](https://github-readme-stats.vercel.app/api?username=JacquesPoulin&theme=blue-green)
+![Antso's github stats](https://github-readme-stats.vercel.app/api?username=AntsoTech&theme=blue-green)
 
-[![Jacques's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AntsoTech&theme=blue-green)](https://github.com/AntsoTech/AntsoTech)
+[![Antso's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AntsoTech&theme=blue-green)](https://github.com/AntsoTech/AntsoTech)
 
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=AntsoTech&theme=blue-green)](https://github.com/AntsoTech/AntsoTech)
+[![Antso's github streak](https://github-readme-streak-stats.herokuapp.com/?user=AntsoTech&theme=blue-green)](https://github.com/AntsoTech/AntsoTech)
 
 <br> <hr>
 
@@ -85,29 +85,6 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-<h3>ALWAYS IMPROVING MY SKILLS</h3>
-
-![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
-![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
-![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
-![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
-![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)
-![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
-
-<h3>NEXT LEARNING STEPS</h3>
-
-![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) -->
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) -->
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-
-<h3>MY FAVORITE TECH WEBSITES & APP</h3>
-
-![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
-![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
-![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
-</p>
-
 <h3>TO COLLABORATE</h3>
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AntsoTech)
@@ -117,13 +94,8 @@
 <h2 align="left">CONTACT ME :</h2> 
 
   ![](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/JacquesPoulin?tab=repositories)
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/AntsoTech?tab=repositories)
 
 📄 Know about my experiences :
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacquespoulin/)
-
-📫 How to reach me : 
-
-   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/?authuser=jacques.poulin64@gmail.com) : jacques.poulin64@gmail.com
-</p>
