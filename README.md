@@ -7,8 +7,6 @@
 
 ![Follows](https://img.shields.io/github/followers/AntsoTech.svg?style=social&label=Follow&maxAge=2592000)
 ![GitHub stars](https://img.shields.io/github/stars/AntsoTech?style=social)
-[![Profile badge](https://www.codewars.com/users/hugmanrique/badges/large)](https://www.codewars.com/users/hugmanrique)
-
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AntsoTech" alt="antsotech" /></a></p>
 <br>
@@ -32,6 +30,8 @@
 [![Antso's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AntsoTech&theme=blue-green)](https://github.com/AntsoTech/AntsoTech)
 
 [![Antso's github streak](https://github-readme-streak-stats.herokuapp.com/?user=AntsoTech&theme=blue-green)](https://github.com/AntsoTech/AntsoTech)
+
+[![Profile badge](https://www.codewars.com/users/hugmanrique/badges/large)](https://www.codewars.com/users/AntsoTech)
 
 <br> <hr>
 
