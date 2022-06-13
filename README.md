@@ -31,7 +31,7 @@
 
 [![Antso's github streak](https://github-readme-streak-stats.herokuapp.com/?user=AntsoTech&theme=blue-green)](https://github.com/AntsoTech/AntsoTech)
 
-[![Profile badge](https://www.codewars.com/users/hugmanrique/badges/large)](https://www.codewars.com/users/AntsoTech)
+[![Profile badge](https://www.codewars.com/users/antsotech/badges/small)](https://www.codewars.com/users/AntsoTech)
 
 <br> <hr>
 
