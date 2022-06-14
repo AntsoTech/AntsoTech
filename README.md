@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi, 👋 I'm Antso Rakotoson !</h1>
-<h3 align="center">A passionate softawre developer/engineer from France willing to collaborate to people to impact the world </h3>
+<h3 align="center">A passionate softawre developer/engineer from France willing to create best web and mobile experiences </h3>
 <br>
 
 ![Profile views](https://gpvc.arturio.dev/AntsoTech)
