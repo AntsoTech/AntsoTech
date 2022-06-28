@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi, 👋 I'm Antso Rakotoson !</h1>
-<h3 align="center">A passionate softawre developer/engineer from France willing to create best web and mobile experiences </h3>
+<h3 align="center">A passionate web and mobile developer willing to create the best memorable web and mobile experiences </h3>
 <br>
 
 ![Profile views](https://gpvc.arturio.dev/AntsoTech)
@@ -15,11 +15,7 @@
 
 - 🌱 I’m **a collaborative and curious person with a thirst for learning**
 
-- 👯 I’m looking to collaborate on **beginners friendly open source projects & code reviews**
-
-- 👨‍💻 All of my projects are available on :
-
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AntsoTech)
+- 👯 I’m looking to collaborate on **friendly open source projects & code reviews**
 
   [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/AntsoTech?tab=repositories)
 
